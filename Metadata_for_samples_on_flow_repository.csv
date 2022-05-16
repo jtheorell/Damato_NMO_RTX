@@ -1,0 +1,464 @@
+﻿Donor,Panel,Instrument,File name
+d001,B-cell,Attune,"Compensation Controls_405-450,2f,50 Stained Control_003.fcs"
+d001,B-cell,Attune,"Compensation Controls_405-525,2f,50 Stained Control_004.fcs"
+d001,B-cell,Attune,"Compensation Controls_405-610,2f,20 Stained Control_005.fcs"
+d001,B-cell,Attune,"Compensation Controls_488-530,2f,30 Stained Control_006.fcs"
+d001,B-cell,Attune,"Compensation Controls_561-585,2f,15 Stained Control_007.fcs"
+d001,B-cell,Attune,"Compensation Controls_561-610,2f,20 Stained Control_008.fcs"
+d001,B-cell,Attune,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d001,B-cell,Attune,"Compensation Controls_640-670,2f,30 Stained Control_010.fcs"
+d001,B-cell,Attune,"Compensation Controls_640-730,2f,45 Stained Control_011.fcs"
+d001,B-cell,Attune,"Compensation Controls_640-780,2f,60 Stained Control_012.fcs"
+d001,B-cell,Attune,Panel C_FNA C_002.fcs
+d001,B-cell,Attune,Panel C_HC C_001.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_BL1-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_RL1-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_RL2-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_RL3-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_VL1-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_VL2-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_VL3-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_YL1-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_YL2-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_Compensation_YL4-A.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_FNA002__B cell panel_LN_2.fcs
+d002,B-cell,Attune,ak__FNA002__B cell panel_20170914_FNA002__B cell panel_PBMC_2.fcs
+d003,B-cell,Attune,ak__FNA B cell panel_20171003_FNA_003_3.10.17_B cell__LN.fcs
+d003,B-cell,Attune,ak__FNA B cell panel_20171003_FNA_003_3.10.17_B cell__PBMC.fcs
+d004,B-cell,Attune,ak__FNA B cell panel_20171010_FNA_004_10.10.17_B cell__LN_A.fcs
+d004,B-cell,Attune,ak__FNA B cell panel_20171010_FNA_004_10.10.17_B cell__LN_B.fcs
+d004,B-cell,Attune,ak__FNA B cell panel_20171010_FNA_004_10.10.17_B cell__PBMC.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_BL1-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_RL1-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_RL2-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_RL3-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_VL1-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_VL2-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_VL3-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_YL1-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_YL2-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_COMP_Compensation_YL4-A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_FNA_005_15.11.17_FNA_A.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_FNA_005_15.11.17_FNA_B.fcs
+d005,B-cell,Attune,ak__FNA B cell panel_FNA_005_15.11.17_PBMC.fcs
+d006,B-cell,Attune,FNA_006 B cell panel_FNA_006_12.12.17_FNA.fcs
+d006,B-cell,Attune,FNA_006 B cell panel_FNA_006_12.12.17_PBMC.fcs
+d007,B-cell,Attune,FNA_007_15.2.18_B_cell_FNA_JR_717819.fcs
+d007,B-cell,Attune,FNA_007_15.2.18_B_cell_PBMC_JR_717819.fcs
+d009,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_001.fcs"
+d009,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_002.fcs"
+d009,Sort,Aria,"Compensation Controls_405-710,2f,50 Stained Control_003.fcs"
+d009,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d009,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d009,Sort,Aria,"Compensation Controls_640-670,2f,30 Stained Control_006.fcs"
+d009,Sort,Aria,"Compensation Controls_640-780,2f,60 Stained Control_007.fcs"
+d009,Sort,Aria,Specimen_002_FNA_013.fcs
+d009,Sort,Aria,Specimen_002_PBMC full_009.fcs
+d009,B-cell,Attune,FNA_009_250418_BCELL(1)_Bcell_PBMC.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_BL1-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_RL1-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_RL2-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_RL3-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_VL1-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_VL2-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_VL3-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_YL1-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_YL2-A.fcs
+d009,B-cell,Attune,FNA_008_15.3.18_B_cell(1)_Compensation_YL4-A.fcs
+d009,B-cell,Attune,FNA_009_250418_BCELL(1)_Bcell_FNA.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_BL1-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_RL1-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_RL2-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_RL3-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL1-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL2-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL3-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL4-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_YL1-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_YL2-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_YL4-A.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Rainbow beads_20180418.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL_B PANEL_HC FNA.fcs
+d010,B-cell,Attune,FNA_10_NMO_B PANEL_B PANEL_HC PBMC.fcs
+d010,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d010,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d010,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d010,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d010,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d010,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d010,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d010,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d010,Sort,Aria,Specimen_001_HC FNA_020.fcs
+d010,Sort,Aria,Specimen_001_HC PBMC_018.fcs
+d011,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d011,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d011,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d011,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d011,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d011,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d011,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d011,Sort,Aria,Specimen_002_FNA_010.fcs
+d011,Sort,Aria,Specimen_002_PBMC_009.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_B PANEL_FNA_bottom.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_B PANEL_FNA_top.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_B PANEL_PBMC.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_BL1-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_RL1-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_RL2-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_RL3-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_VL1-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_VL2-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_VL3-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_VL4-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_YL1-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_YL2-A.fcs
+d013,B-cell,Attune,FNA_013_17072017_B_cell_panel_Compensation_YL4-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_B PANEL_FNA.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_B PANEL_PBMC.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_BL1-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_RL1-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_RL2-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_RL3-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_VL1-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_VL2-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_VL3-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_VL4-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_YL1-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_YL2-A.fcs
+d014,B-cell,Attune,FNA_014_26072017_B_cell_panel_Compensation_YL4-A.fcs
+d014,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d014,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d014,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d014,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d014,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d014,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d014,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d014,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d014,Sort,Aria,Specimen_002_FNA_010.fcs
+d014,Sort,Aria,Specimen_002_PBMC_011.fcs
+d017,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_005.fcs"
+d017,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_006.fcs"
+d017,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_007.fcs"
+d017,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_003.fcs"
+d017,Sort,Aria,"Compensation Controls_561-585,2f,15 Stained Control_009.fcs"
+d017,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_004.fcs"
+d017,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_008.fcs"
+d017,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_001.fcs"
+d017,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_002.fcs"
+d017,Sort,Aria,Specimen_002_FNA_019.fcs
+d017,Sort,Aria,Specimen_002_PBMC_020.fcs
+d018,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d018,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d018,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d018,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d018,Sort,Aria,"Compensation Controls_561-585,2f,15 Stained Control_010.fcs"
+d018,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d018,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d018,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d018,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d018,Sort,Aria,Specimen_002_FNA_020.fcs
+d018,Sort,Aria,Specimen_002_PBMC_021.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_BL1-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_RL1-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_RL2-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_RL3-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_VL1-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_VL2-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_VL3-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_VL4-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_YL1-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_YL2-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Compensation_YL4-A.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Samples_FNA019_FNA_ficoll_top_Bcell_panel.fcs
+d019,Sort,Aria,FNA019 B panel 16072019(2)_Samples_FNA019_PBMC_Bcell_panel.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_BL1-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_RL1-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_RL2-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_RL3-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_VL1-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_VL2-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_VL3-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_VL4-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_YL1-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_YL2-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Compensation_YL4-A.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Samples_FNA020_FNA_Bcell_panel.fcs
+d020,Sort,Aria,FNA020 B panel 18072019(1)_Samples_FNA020_PBMC_Bcell_panel.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_BL1-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_RL1-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_RL2-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_RL3-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_VL1-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_VL2-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_VL3-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_VL4-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_YL1-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_YL2-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Compensation_YL4-A.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Samples_FNA021_FNA_Bcell_panel.fcs
+d021,Sort,Aria,FNA021 B panel 25072019_Samples_FNA021_PBMC_Bcell_panel.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_BL1-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_RL1-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_RL2-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_RL3-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_VL1-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_VL2-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_VL3-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_VL4-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_YL1-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_YL2-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Compensation_YL4-A.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Samples_FNA022_FNA_Bcell_panel.fcs
+d022,Sort,Aria,FNA022 B panel 06082019_Samples_FNA022_PBMC_Bcell_panel.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_BL1-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_RL1-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_RL2-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_RL3-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL1-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL2-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL3-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_VL4-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_YL1-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_YL2-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL RAINBOW_COMPENSATION_Compensation_YL4-A.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL_B PANEL_NMO FNA.fcs
+d101,B-cell,Attune,FNA_10_NMO_B PANEL_B PANEL_NMO PBMC.fcs
+d101,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d101,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d101,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d101,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d101,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d101,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d101,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d101,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d101,Sort,Aria,Specimen_001_NMO FNA_019.fcs
+d101,Sort,Aria,Specimen_001_NMO PBMC_017.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_BL1-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_RL1-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_RL2-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_RL3-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_VL1-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_VL2-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_VL3-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_VL4-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_YL1-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_YL2-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B COMPENSATION 29052018_Compensation_YL4-A.fcs
+d102,B-cell,Attune,FNA NMO 002 B PANEL 29052018_FMO_FNA.fcs
+d102,B-cell,Attune,FNA NMO 002 B PANEL 29052018_FMO_PBMC.fcs
+d102,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d102,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d102,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d102,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d102,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d102,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d102,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d102,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d102,Sort,Aria,Specimen_001_us_001.fcs
+d102,Sort,Aria,Specimen_002_FMO_APC_015.fcs
+d102,Sort,Aria,Specimen_002_FMO_APCCy7_011.fcs
+d102,Sort,Aria,Specimen_002_FMO_BV605_012.fcs
+d102,Sort,Aria,Specimen_002_FMO_BV711_014.fcs
+d102,Sort,Aria,Specimen_002_FMO_PECy7_013.fcs
+d102,Sort,Aria,Specimen_002_FNA_016.fcs
+d102,Sort,Aria,Specimen_002_PBMC_010.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_B PANEL_FNA.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_B PANEL_PBMC.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_BL1-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_RL1-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_RL2-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_RL3-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_VL1-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_VL2-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_VL3-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_VL4-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_YL1-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_YL2-A.fcs
+d103,B-cell,Attune,FNA NMO 003 B PANEL_Compensation_YL4-A.fcs
+d103,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_005.fcs"
+d103,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_006.fcs"
+d103,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_007.fcs"
+d103,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_003.fcs"
+d103,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_004.fcs"
+d103,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_008.fcs"
+d103,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_001.fcs"
+d103,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_002.fcs"
+d103,Sort,Aria,Specimen_001_FNA_010.fcs
+d103,Sort,Aria,Specimen_001_PBMCs_009.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_B PANEL_FNA.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_B PANEL_PBMC.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_BL1-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_RL1-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_RL2-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_RL3-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_VL1-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_VL2-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_VL3-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_VL4-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_YL1-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_YL2-A.fcs
+d104,B-cell,Attune,FNA NMO004 B PANEL 14062018_Compensation_YL4-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_B PANEL_FNA.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_B PANEL_PBMC.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_BL1-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_RL1-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_RL2-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_RL3-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_VL1-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_VL2-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_VL3-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_VL4-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_YL1-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_YL2-A.fcs
+d105,B-cell,Attune,FNA NMO 005_27072018_B_cell_panel(1)_Compensation_YL4-A.fcs
+d106,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d106,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d106,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d106,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d106,Sort,Aria,"Compensation Controls_561-585,2f,15 Stained Control_010.fcs"
+d106,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d106,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d106,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d106,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d106,Sort,Aria,Specimen_002_FMO_APC_018.fcs
+d106,Sort,Aria,Specimen_002_FMO_APCCy7_019.fcs
+d106,Sort,Aria,Specimen_002_FMO_BV605_012.fcs
+d106,Sort,Aria,Specimen_002_FMO_BV711_013.fcs
+d106,Sort,Aria,Specimen_002_FMO_fitc_014.fcs
+d106,Sort,Aria,Specimen_002_FMO_PacB_011.fcs
+d106,Sort,Aria,Specimen_002_FMO_PE_015.fcs
+d106,Sort,Aria,Specimen_002_FMO_PECy7_017.fcs
+d106,Sort,Aria,Specimen_002_FMO_PETxRd_016.fcs
+d106,Sort,Aria,Specimen_002_FNA_021.fcs
+d106,Sort,Aria,Specimen_002_PBMC_023.fcs
+d107,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_001.fcs"
+d107,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_002.fcs"
+d107,Sort,Aria,"Compensation Controls_405-710,2f,50 Stained Control_003.fcs"
+d107,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d107,Sort,Aria,"Compensation Controls_561-582,2f,15 Stained Control_005.fcs"
+d107,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_006.fcs"
+d107,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_007.fcs"
+d107,Sort,Aria,"Compensation Controls_640-670,2f,30 Stained Control_008.fcs"
+d107,Sort,Aria,"Compensation Controls_640-780,2f,60 Stained Control_009.fcs"
+d107,Sort,Aria,Specimen_002_FNA_012.fcs
+d107,Sort,Aria,Specimen_002_Patient PBMC_013.fcs
+d108,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_001.fcs"
+d108,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_002.fcs"
+d108,Sort,Aria,"Compensation Controls_405-710,2f,50 Stained Control_003.fcs"
+d108,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d108,Sort,Aria,"Compensation Controls_561-582,2f,15 Stained Control_005.fcs"
+d108,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_006.fcs"
+d108,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_007.fcs"
+d108,Sort,Aria,"Compensation Controls_640-670,2f,30 Stained Control_008.fcs"
+d108,Sort,Aria,"Compensation Controls_640-780,2f,60 Stained Control_009.fcs"
+d108,Sort,Aria,Specimen_002_fna nmo 008_001_012.fcs
+d108,Sort,Aria,Specimen_002_Full_010.fcs
+d108,Sort,Aria,Specimen_002_PBMC_024.fcs
+d110,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d110,Sort,Aria,"Compensation Controls_405-525,2f,50 Stained Control_011.fcs"
+d110,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d110,Sort,Aria,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d110,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d110,Sort,Aria,"Compensation Controls_561-585,2f,15 Stained Control_010.fcs"
+d110,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d110,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d110,Sort,Aria,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d110,Sort,Aria,"Compensation Controls_633-730,2f,45 Stained Control_012.fcs"
+d110,Sort,Aria,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d110,Sort,Aria,Specimen_002_FNA mix_025.fcs
+d110,Sort,Aria,Specimen_002_PBMC mix_040.fcs
+d111,Sort,Aria,"Compensation Controls_405-450,2f,50 Stained Control_002.fcs"
+d111,Sort,Aria,"Compensation Controls_405-525,2f,50 Stained Control_011.fcs"
+d111,Sort,Aria,"Compensation Controls_405-610,2f,20 Stained Control_003.fcs"
+d111,Sort,Aria,"Compensation Controls_405-710,2f,50 Stained Control_004.fcs"
+d111,Sort,Aria,"Compensation Controls_488-530,2f,30 Stained Control_005.fcs"
+d111,Sort,Aria,"Compensation Controls_561-582,2f,15 Stained Control_006.fcs"
+d111,Sort,Aria,"Compensation Controls_561-610,2f,20 Stained Control_007.fcs"
+d111,Sort,Aria,"Compensation Controls_561-780,2f,60 Stained Control_008.fcs"
+d111,Sort,Aria,"Compensation Controls_640-670,2f,30 Stained Control_009.fcs"
+d111,Sort,Aria,"Compensation Controls_640-730,2f,45 Stained Control_012.fcs"
+d111,Sort,Aria,"Compensation Controls_640-780,2f,60 Stained Control_010.fcs"
+d111,Sort,Aria,Specimen_001_FNA sample_014.fcs 
+d111,Sort,Aria,Specimen_001_PBMC sample_015.fcs
+d112,Sort,Aria,Specimen_001_FNA sample_012.fcs
+d112,Sort,Aria,Specimen_001_PBMC _012.fcs
+d113,Sort,Aria,Specimen_001_FNA sample FYCOLL_013.fcs
+d113,Sort,Aria,Specimen_001_PBMC _013.fcs
+d114,B-cell,Attune,"Compensation Controls_405-450,2f,50 Stained Control_006.fcs"
+d114,B-cell,Attune,"Compensation Controls_405-525,2f,50 Stained Control_011.fcs"
+d114,B-cell,Attune,"Compensation Controls_405-610,2f,20 Stained Control_007.fcs"
+d114,B-cell,Attune,"Compensation Controls_405-660,2f,20 Stained Control_008.fcs"
+d114,B-cell,Attune,"Compensation Controls_488-530,2f,30 Stained Control_004.fcs"
+d114,B-cell,Attune,"Compensation Controls_561-585,2f,15 Stained Control_010.fcs"
+d114,B-cell,Attune,"Compensation Controls_561-610,2f,20 Stained Control_005.fcs"
+d114,B-cell,Attune,"Compensation Controls_561-780,2f,60 Stained Control_009.fcs"
+d114,B-cell,Attune,"Compensation Controls_633-660,2f,20 Stained Control_002.fcs"
+d114,B-cell,Attune,"Compensation Controls_633-730,2f,45 Stained Control_012.fcs"
+d114,B-cell,Attune,"Compensation Controls_633-780,2f,60 Stained Control_003.fcs"
+d114,B-cell,Attune,Specimen_002_FNA mix_024.fcs
+d114,B-cell,Attune,Specimen_002_PBMC_035.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_BL1-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_RL1-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_RL2-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_RL3-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_VL1-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_VL2-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_VL3-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_VL4-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_YL1-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_YL2-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Compensation_YL4-A.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Group_NMO FNA.fcs
+d115,B-cell,Attune,FNA NMO 015 11062019_Group_NMO PBMC.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_BL1-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_RL1-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_RL2-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_RL3-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_VL1-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_VL2-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_VL3-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_VL4-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_YL1-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_YL2-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Compensation_YL4-A.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Group_NMO FNA.fcs
+d116,B-cell,Attune,FNA NMO 016 15072019_Group_NMO PBMC.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_BL1-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_RL1-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_RL2-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_RL3-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_VL1-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_VL2-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_VL3-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_VL4-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_YL1-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_YL2-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Compensation_YL4-A.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Group_NMO FNA.fcs
+d117,B-cell,Attune,FNA NMO 017 23072019_Group_NMO PBMC.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Group_NMO PBMC.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_BL1-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_RL1-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_RL2-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_RL3-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_VL1-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_VL2-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_VL3-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_VL4-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_YL1-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_YL2-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Compensation_YL4-A.fcs
+d118,B-cell,Attune,FNA NMO 018 22102019_Group_NMO FNA.fcs
+d119,B-cell,Attune,BL1-A.fcs
+d119,B-cell,Attune,NMO FNA.fcs
+d119,B-cell,Attune,NMO PBMC.fcs
+d119,B-cell,Attune,RL1-A.fcs
+d119,B-cell,Attune,RL2-A.fcs
+d119,B-cell,Attune,RL3-A.fcs
+d119,B-cell,Attune,VL1-A.fcs
+d119,B-cell,Attune,VL2-A.fcs
+d119,B-cell,Attune,VL3-A.fcs
+d119,B-cell,Attune,VL4-A.fcs
+d119,B-cell,Attune,YL1-A.fcs
+d119,B-cell,Attune,YL2-A.fcs
+d119,B-cell,Attune,YL4-A.fcs
